@@ -1,5 +1,5 @@
 # Hi👋, I'm Aishwarya Chinagundi 
-🌱 I'm currently learning Web development(HTML, CSS and JavaScript)<br>🚀 Dedicated to becoming  a Full-stack Developer <br>✨ Believe in learning, consistency, and growth every day<br>
+🌱 I'm currently learning **Web development** (HTML, CSS and JavaScript)<br>🚀 Dedicated to becoming  a **Full-Stack Developer** <br>✨ Believe in learning, consistency, and growth every day<br>
 
 
 ## 🌐 Socials:
